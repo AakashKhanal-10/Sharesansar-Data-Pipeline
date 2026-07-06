@@ -1,0 +1,21 @@
+# Python environment caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Databases & local data files
+*.db
+*.sqlite3
+*.csv
+*.xlsx
+
+# IDE Settings
+.vscode/
+.idea/
